@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import bgVideo from './assets/video.mov';
 import clipVideo from './assets/iuem.mov';
 
